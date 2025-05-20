@@ -354,8 +354,7 @@ with tab3:
         name=selected_borough,
         line_color='#3498db'
     ))
-    print('AAAAAAaa')
-    print(analysis_df)
+    
         
     # Add London average for comparison
     london_avg = analysis_df.mean()
