@@ -6,4 +6,3 @@ seaborn
 folium
 streamlit-folium
 plotly 
-scikit-learn
