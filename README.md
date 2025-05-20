@@ -1,5 +1,3 @@
-
-````markdown
 # Poverty Analysis App - London Boroughs (2022)
 
 This application allows you to analyze poverty, unemployment, and house price ratio indicators for London boroughs in 2022. It includes interactive radar charts to compare a selected borough against the London average.
